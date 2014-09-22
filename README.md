@@ -4,11 +4,18 @@ orientation
 This plugin base on JQuery or Zepto.
 
 It offer generality device orientation events: 
+
    vertical: Vertical your phone  手机竖向
    
+   -------
+   
    Horizontal your phone 手机横屏
+   
    hLeft: phone's brand logo at left(←) 手机品牌的logo在左侧
+   
    hRight: phone's brand logo at right(→) 手机品牌的logo在右侧
+   
+   -------
 
    shake: Shake your phone 摇晃手机
 
