@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0,user-scalable=no" name="viewport" id="viewport" />
+    <title>Document</title>
+    <!--<script src="http://cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>-->
+    <script src="http://cdn.staticfile.org/zepto/1.0rc1/zepto.min.js"></script>
+    <script src="orientation.min.js"></script>
+    <script>
+        $(document).ready(function () {/*must*/
+            $(this).vertical(function (event) {
+                $("#c").text(event.type);
+            });
+            $(this).hLeft(function (event) {
+                $("#c").text(event.type);
+            });
+            $(this).hRight(function (event) {
+                $("#c").text(event.type);
+            });
+            $(this).shake(function (event) {
+                $("#c").text(event.type);
+            });
+        });
+    </script>
+</head>
+
+<body>
+    <div id="c">
+      Shake your phone
+    </div>
+</body>
+
+</html>
