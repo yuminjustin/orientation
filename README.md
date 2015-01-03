@@ -44,5 +44,5 @@ Sina weibo ：http://weibo.com/531205012
 
 Tencent QQ ：1447937286
 
-
+##详细：http://yuminjustin.cn/html/plugin/2015/0103/9.html
      
