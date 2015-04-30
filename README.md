@@ -38,11 +38,5 @@ You can use it like these:
         
 提供一般性的设备方向事件:（如上）
 
-contact：
-
-Sina weibo ：http://weibo.com/531205012
-
-Tencent QQ ：1447937286
-
-##详细：http://yuminjustin.cn/html/plugin/2015/0103/9.html
+##详细：http://dwz.cn/IlXPU
      
