@@ -38,5 +38,5 @@ You can use it like these:
         
 提供一般性的设备方向事件:（如上）
 
-##详细：http://dwz.cn/IlXPU
+##详细：http://dwz.cn/1JZbIP
      
