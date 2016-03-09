@@ -1,25 +1,25 @@
 orientation
 =====
 
-This plugin base on JQuery or Zepto.
+基于 JQuery 或者 Zepto.
 
-It offer generality device orientation events: 
+提供的事件如下: 
 
-   vertical: Vertical your phone  手机竖向
+   vertical:  手机竖向
    
    -------
    
-   Horizontal your phone 手机横屏
+   手机横屏
    
-   hLeft: phone's brand logo at left(←) 手机品牌的logo在左侧
+   hLeft: (←) 手机品牌的logo在左侧
    
-   hRight: phone's brand logo at right(→) 手机品牌的logo在右侧
+   hRight: (→) 手机品牌的logo在右侧
    
    -------
 
-   shake: Shake your phone 摇晃手机
+   shake: 摇晃手机
 
-You can use it like these:
+你可以这样去使用:
 
       $(document).ready(function () {/*must*/
             $(this).vertical(function (event) {
@@ -38,5 +38,5 @@ You can use it like these:
         
 提供一般性的设备方向事件:（如上）
 
-##详细：http://dwz.cn/1JZbIP
+##详细：https://yuminjustin.github.io/?/arc/arcid:02/channel:arc
      
